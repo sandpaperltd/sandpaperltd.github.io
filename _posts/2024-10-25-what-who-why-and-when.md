@@ -26,4 +26,6 @@ okay, so you know who. next step. why? <br />
 
 why in general and why here. <br />
 
-simple answer would be to say that because i can. and i want to
+simple answer would be to say that because i can. and i want to. but things are not simple. at the same time we're living in the age of wonders, where if one wants to, one can quite simply publish what one wants where one wants. i'm not that one tho, as mentioned before - i can't code. so i went with the simpler approach on hosting this as a repo. this way i can keep both the development blog and the files for different revisions. <br />
+
+and why in general? because i like to create, and it may not look like that, but i like to talk about stuff. 
