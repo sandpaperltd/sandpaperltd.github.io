@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: titleeltit
+title: tangens rnd division
 list_title: mybloggolbym
 ---
 
