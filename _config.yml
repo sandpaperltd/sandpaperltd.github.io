@@ -18,5 +18,5 @@ header_pages:
 include:
     - _pages
 
-exclude
+exclude:
     - README.md
