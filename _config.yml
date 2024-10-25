@@ -71,4 +71,4 @@ kramdown:
   show_warnings     : false
   
 #theme: jekyll-theme-minima
-#remote_theme: jekyll/minima
+remote_theme: jekyll/minima
