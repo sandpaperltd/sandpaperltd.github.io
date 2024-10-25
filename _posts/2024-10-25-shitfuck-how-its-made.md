@@ -1,6 +1,6 @@
 ---
-title: "2024-10-24 shitfuck - how it's made?"
-date: 2024-10-24
+title: "2024-10-25 shitfuck - how it's made?"
+date: 2024-10-25
 layout: post
 ---
 
