@@ -25,3 +25,5 @@ but i do not know how to write code. i just do not understand programming. almos
 okay, so you know who. next step. why? <br />
 
 why in general and why here. <br />
+
+simple answer would be to say that because i can. and i want to
