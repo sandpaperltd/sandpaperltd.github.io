@@ -3,7 +3,10 @@
 
 @import "minima";
 
-@import url('https://fonts.googleapis.com/css?/css2?family=Comfortaa:wght@300..700&display=swap');
+@font-face {
+    font-family: Comfortaa;
+    src:local("sandpaper.github.io\_fonts\Comfortaa_regular.ttf");
+}
 body {
     font-family: "Comfortaa", serif;
     font-optical-sizing: auto;
