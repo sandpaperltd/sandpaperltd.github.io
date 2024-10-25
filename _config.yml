@@ -70,4 +70,5 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
   
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minima
+remote_theme: jekyll/minima
