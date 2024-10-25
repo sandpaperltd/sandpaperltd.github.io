@@ -68,9 +68,6 @@ include:
 
 header_pages:
   - _pages/frontpage.md
-  
-exclude: 
-    - README.md
     
 # Markdown Processors
 kramdown:
