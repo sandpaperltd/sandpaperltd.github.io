@@ -16,8 +16,6 @@ next. <br />
 
 who? um, hello, my name is jacek and i'm the person behind the wheel. i have a master's degree in mechatronic engineering. in theory this means i'm equal parts mechanical, electrical (and software) engineer. <br />
 
-okay, additional rule. there's no such thing as software engineering. there is not. not in my world. i've been hurt before by so called software engineers and this whole branch of make-believe so called engineering, and i won't let anyone hurt me again. it does not exist. one can be software developer or qa engineer, but in this household one can't be a software engineer. <br />
-
 but in practice this means i'm somewhat fluent in cad design, dfm for 3d printing (mostly fused filament fabrication) and all that stuff. i know how to use soldering iron, but i'm not fluent in reading electrical schematics while at the same time designing pcbs? as i said, stay silly. and i'm silly. and i know how I connect a sensor to a microcontroller. i know almost everything one needs to know how to design shitfucks. i'm rawdogging my way through this as i go. <br />
 
 but i do not know how to write code. i just do not understand programming. almost a decade ago i did, now i don't. <br />
