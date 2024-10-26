@@ -1,6 +1,6 @@
 ---
-title: "2024-10-24 story behind sandpaper ltd."
-date: 2024-10-24
+title: "2024-10-26 story behind sandpaper ltd."
+date: 2024-10-26
 layout: post
 ---
 
