@@ -4,7 +4,9 @@ date: 2024-10-26
 layout: post
 ---
 
-this is my third imaginary company. i know how that sounds. first was one was active around fourteen to twelve years ago. it was a group project with name and logo coined together with other people. i'm no longer friend with one of them. we haven't talk for more than five years as of today. <br />
+this is my third imaginary company.  <br />
+
+i know how that sounds. first was one was active around fourteen to twelve years ago. it was a group project with name and logo coined together with other people. i'm no longer friend with one of them. we haven't talk for more than five years as of today. <br />
 
 second one was active around four to two years ago. it was not a group project, but the name was suggested by someone that i'm no longer friends with. you see the pattern? one couldn't call me an entrepreneur. <br />
 
