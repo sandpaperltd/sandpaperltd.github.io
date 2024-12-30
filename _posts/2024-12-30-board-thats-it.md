@@ -1,5 +1,5 @@
 ---
-title: "2024-12-30 setec-fucking-astronomy"
+title: "2024-12-30 board-thats-it"
 date: 2024-12-30
 layout: post
 ---
