@@ -1,5 +1,5 @@
 ---
-title: "2025-01-04 prototypin-feels-so-good"
+title: "2025-01-04 prototyping-feels-so-good"
 date: 2025-01-04
 layout: post
 ---
