@@ -4,7 +4,7 @@ date: 2025-01-05
 layout: post
 ---
 
- one thing i forgot yesterday. <br />
+one thing i forgot yesterday. <br />
  
 adam ragusea (yt cook) has this great series of videos when he screams at the camera (microphone?), it's called SHOCKING SECRET to something (chili, or vegetable soup). anyway, that's the message i also wanted to convey yesterday, but forgot, and now i don't want to edit post from yesterday - if you let go of your expectations (i'm talking here to myself) how things should look like based on the state of the art, you can build working prototype and move to the next step enjoying yourself. <br />
 
