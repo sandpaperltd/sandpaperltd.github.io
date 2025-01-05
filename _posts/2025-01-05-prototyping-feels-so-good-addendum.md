@@ -1,5 +1,5 @@
 ---
-title: "2025-01-05 addendum to post from yesterday"
+title: "2025-01-05 addendum to the post from yesterday"
 date: 2025-01-05
 layout: post
 ---
