@@ -215,3 +215,35 @@ void loop() {
 
 }
 ```
+the code goes through button states and updates them accordingly in the least optimal fashion (is this sentence gramatically correct? frankly, i don't know nor i care). but it works. <br />
+
+rev-a done, rev-b in progress, rev-c on the horizon (in the backlog).  <br />
+
+enjoy some additional cad screenshots.  <br />
+
+![shtifuck-5-days-to-prototype-407](https://github.com/user-attachments/assets/80551ea0-4c73-462d-b6ee-df942ac3720d)
+![shtifuck-5-days-to-prototype-406](https://github.com/user-attachments/assets/08f47cd7-b80d-4776-bdc4-1d349e801cc8)
+![shtifuck-5-days-to-prototype-405](https://github.com/user-attachments/assets/faa73baa-215d-426d-b0b4-7f3921ba707e)
+![shtifuck-5-days-to-prototype-404](https://github.com/user-attachments/assets/a19c70ea-9ec3-4c2b-89b6-088edcab344b)
+![shtifuck-5-days-to-prototype-403](https://github.com/user-attachments/assets/213f4485-a811-4193-a89d-cbe0ded7d369)
+![shtifuck-5-days-to-prototype-402](https://github.com/user-attachments/assets/62cc728e-9425-473b-802a-017ae476cf2a)
+![shtifuck-5-days-to-prototype-401](https://github.com/user-attachments/assets/f25958a8-f19b-44b2-afee-ca0dafbe0041)
+
+![5-days-to-prototype-004](https://github.com/user-attachments/assets/0ca84280-daf8-4cf3-8987-672069f6806d)
+![5-days-to-prototype-104](https://github.com/user-attachments/assets/13fa7672-3cd0-4704-a336-a3fcf006826c)
+![5-days-to-prototype-204](https://github.com/user-attachments/assets/4afe344e-8835-4e10-b1be-277655d941eb)
+![5-days-to-prototype-304](https://github.com/user-attachments/assets/f374d762-8fcd-48d0-882c-453c7b38e58f)
+![5-days-to-prototype-404](https://github.com/user-attachments/assets/0007ea38-e9a4-491f-9f56-19abeb0bf246)
+
+![5-days-to-prototype-002](https://github.com/user-attachments/assets/05de6910-97f7-419d-8090-6dc67b0d9bfe)
+![5-days-to-prototype-102](https://github.com/user-attachments/assets/07144b7c-06d1-4289-a38a-c79d30e2e2b3)
+![5-days-to-prototype-202](https://github.com/user-attachments/assets/f6f18270-5b13-4edd-a5a6-965053f0b0b2)
+![5-days-to-prototype-302](https://github.com/user-attachments/assets/87df2830-c3f8-47e6-92e7-ac87243e180b)
+![5-days-to-prototype-402](https://github.com/user-attachments/assets/2ff36abd-483c-4ded-a648-6c1bbd10e872)
+
+
+
+
+
+
+
