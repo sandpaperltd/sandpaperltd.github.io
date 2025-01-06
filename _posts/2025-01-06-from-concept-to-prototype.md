@@ -215,7 +215,7 @@ void loop() {
 
 }
 ```
-the code goes through button states and updates them accordingly in the least optimal fashion (is this sentence gramatically correct? frankly, i don't know nor i care). but it works. <br />
+the code goes through button states and updates them accordingly in the least optimal way (is this sentence gramatically correct? frankly, i don't know nor i care). but it works. and i rather have something that's build more or less okay, has working electronics and understandable code, that nothing at all. it's a prototype after all. <br />
 
 rev-a done, rev-b in progress, rev-c on the horizon (in the backlog).  <br />
 
@@ -234,14 +234,28 @@ enjoy some additional cad screenshots.  <br />
 ![5-days-to-prototype-204](https://github.com/user-attachments/assets/4afe344e-8835-4e10-b1be-277655d941eb)
 ![5-days-to-prototype-304](https://github.com/user-attachments/assets/f374d762-8fcd-48d0-882c-453c7b38e58f)
 ![5-days-to-prototype-404](https://github.com/user-attachments/assets/0007ea38-e9a4-491f-9f56-19abeb0bf246)
+![5-days-to-prototype-504](https://github.com/user-attachments/assets/62333ba6-98b3-45b2-8678-8b97a3a33364)
 
 ![5-days-to-prototype-002](https://github.com/user-attachments/assets/05de6910-97f7-419d-8090-6dc67b0d9bfe)
 ![5-days-to-prototype-102](https://github.com/user-attachments/assets/07144b7c-06d1-4289-a38a-c79d30e2e2b3)
 ![5-days-to-prototype-202](https://github.com/user-attachments/assets/f6f18270-5b13-4edd-a5a6-965053f0b0b2)
 ![5-days-to-prototype-302](https://github.com/user-attachments/assets/87df2830-c3f8-47e6-92e7-ac87243e180b)
 ![5-days-to-prototype-402](https://github.com/user-attachments/assets/2ff36abd-483c-4ded-a648-6c1bbd10e872)
+![5-days-to-prototype-502](https://github.com/user-attachments/assets/fb6f756e-44e8-4568-9a95-28d0e37795d1)
 
+![5-days-to-prototype-003](https://github.com/user-attachments/assets/3559f246-afde-41b9-b589-1d376a70d355)
+![5-days-to-prototype-103](https://github.com/user-attachments/assets/6e9ef16f-1dfb-4c6c-a785-f7f71420f694)
+![5-days-to-prototype-203](https://github.com/user-attachments/assets/716cbc35-a6e0-4292-ad2f-bab0bb423de0)
+![5-days-to-prototype-303](https://github.com/user-attachments/assets/b6a7e98d-0fab-4ee7-aa31-83e7233d608b)
+![5-days-to-prototype-403](https://github.com/user-attachments/assets/a65f470d-9a1b-4a9f-9b92-54c86b1f3a3e)
+![5-days-to-prototype-503](https://github.com/user-attachments/assets/f413f4ce-8417-476c-b0f1-8ad68c34c7aa)
 
+![5-days-to-prototype-007](https://github.com/user-attachments/assets/82deeb3c-f2ba-4ba8-93d9-86a8744b8c4e)
+![5-days-to-prototype-107](https://github.com/user-attachments/assets/512ebe62-c353-4f4a-9d78-7809d5f03b28)
+![5-days-to-prototype-207](https://github.com/user-attachments/assets/2d3d8a49-6a8c-4452-9868-f720edb69bd8)
+![5-days-to-prototype-307](https://github.com/user-attachments/assets/43c46ffa-8c6b-4b82-ac9a-c23bb3e313ba)
+![5-days-to-prototype-407](https://github.com/user-attachments/assets/33508c35-4e16-4c1e-a21c-4d8f35695690)
+![5-days-to-prototype-507](https://github.com/user-attachments/assets/e2f7020f-ab63-4dd0-ab20-3759be4d7fe4)
 
 
 
