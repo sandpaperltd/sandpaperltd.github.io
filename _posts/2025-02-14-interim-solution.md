@@ -103,8 +103,6 @@ biggest changes are in the mechanical design section. whereas before it was one 
 
 grip section is splitted along the longer edge - we get front facing and back facing plates. both with mounting holes for pcbs and space for cable routing. adapter attaches to 2020 aluminum extrusion (as before) or print with similar size. <br />
 
-![interim-solution-007](https://github.com/user-attachments/assets/7505e219-05b3-45c8-b7af-63b33625a8dc)
-
 nothing more interesting to add here. simple, working, reliable, in progress. enjoy.
 
 ![interim-solution-002](https://github.com/user-attachments/assets/0ec9d79d-ce9f-42bb-9390-1cf3229f2a48)
