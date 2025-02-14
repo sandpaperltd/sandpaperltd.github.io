@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/b592ca95-89e9-470c-b302-c741f8b392d4)---
 title: "2025-02-14 interim solution"
 date: 2025-02-14
 layout: post
@@ -11,6 +11,8 @@ happy valentines day. never stop gambling. <br />
 but it's not about balatro. or any other balala joker poker. it's about revision b of the grip, the bridge between rev-a and rev-c.  <br />
 
 ### the interim solution
+
+![interim-solution-001-bold](https://github.com/user-attachments/assets/472b61da-6b4b-4112-b158-5b05753e62c5)
 
 i'm on holiday this week, my work holiday. so i was working on the design, and i'd like to keep this brief.  <br />
 
@@ -92,4 +94,10 @@ void loop() {
   }
 }
 ```
-buttons are running on pcf8575, so we have access to sixteen of them but currently using only eight. you can go briefly through the code attached above, it's jury rigged and working, so i'm proud of it.
+buttons are running on pcf8575, so we have access to sixteen of them but currently using only eight. you can go briefly through the code attached above, it's jury rigged and working, so i'm proud of it. layout is the same as before - weapon release, tracking, weapon cycle, guns and countermeasures. eight buttons in total.  <br />
+
+biggest changes are in the mechanical design section. whereas before it was one monolithic print this time i decided to split it for easier assembly.
+
+![interim-solution-007](https://github.com/user-attachments/assets/bc7f7459-ff8f-4652-9c2a-36e4f17500ec)
+
+grip section is splitted along the longer edge - we get front facing and back facing plates. both with mounting holes for pcbs and space for cable routing. adapter attaches to 2020 aluminum extrusion (as before) or print with similar size.
