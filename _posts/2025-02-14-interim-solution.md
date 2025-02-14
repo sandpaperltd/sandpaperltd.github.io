@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b592ca95-89e9-470c-b302-c741f8b392d4)---
+---
 title: "2025-02-14 interim solution"
 date: 2025-02-14
 layout: post
@@ -94,10 +94,21 @@ void loop() {
   }
 }
 ```
-buttons are running on pcf8575, so we have access to sixteen of them but currently using only eight. you can go briefly through the code attached above, it's jury rigged and working, so i'm proud of it. layout is the same as before - weapon release, tracking, weapon cycle, guns and countermeasures. eight buttons in total.  <br />
+
+buttons are running on pcf8575, so we have access to sixteen of them but currently using only eight. you can go briefly through the code attached above, it's jury rigged and working, so i'm proud of it. layout is the same as before - weapon release, tracking, weapon cycle, guns and countermeasures. eight buttons in total. <br />
 
 biggest changes are in the mechanical design section. whereas before it was one monolithic print this time i decided to split it for easier assembly.
 
 ![interim-solution-007](https://github.com/user-attachments/assets/bc7f7459-ff8f-4652-9c2a-36e4f17500ec)
 
-grip section is splitted along the longer edge - we get front facing and back facing plates. both with mounting holes for pcbs and space for cable routing. adapter attaches to 2020 aluminum extrusion (as before) or print with similar size.
+grip section is splitted along the longer edge - we get front facing and back facing plates. both with mounting holes for pcbs and space for cable routing. adapter attaches to 2020 aluminum extrusion (as before) or print with similar size. <br />
+
+![interim-solution-007](https://github.com/user-attachments/assets/7505e219-05b3-45c8-b7af-63b33625a8dc)
+
+nothing more interesting to add here. simple, working, reliable, in progress. enjoy.
+
+![interim-solution-002](https://github.com/user-attachments/assets/0ec9d79d-ce9f-42bb-9390-1cf3229f2a48)
+![interim-solution-003](https://github.com/user-attachments/assets/197e045d-7522-4510-803c-37c5863b716c)
+![interim-solution-004](https://github.com/user-attachments/assets/404a8387-668c-49b5-9546-e5540b4cf0c5)
+![interim-solution-005](https://github.com/user-attachments/assets/d53b49bb-8328-42d9-bb35-d73485238f6b)
+![interim-solution-006](https://github.com/user-attachments/assets/d3a006f7-b0c6-475d-90eb-ee1aec1ea4a8)
